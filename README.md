@@ -1,3 +1,7 @@
+AIM 2025 Inverse Tone Mapping Challenge
+Pytorch "Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline"
+
+
 conda create -n shdr1 python=3.8
 
 conda activate shdr1  
